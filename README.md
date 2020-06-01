@@ -6,4 +6,5 @@ This repository contains a shared library in order to simplify the current struc
 
 The library provides thes following tasks:
 
-* ...
+* gradle
+* release
